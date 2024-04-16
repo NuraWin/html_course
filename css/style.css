@@ -41,7 +41,7 @@ textarea{
     font-weight: 400;
 }
 header{
-    margin-top: 26px;
+    padding-top: 26px;
 }
 footer{
     color: #808080;
@@ -56,7 +56,7 @@ footer{
 .form-item{
     padding-top: 15px;
 }
-.forms{
+.form-item input, textarea{
     width: 100%;
     max-width: 400px;
     border: none;
